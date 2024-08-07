@@ -1,0 +1,12 @@
+{
+  "name": "nestjs-sms",
+  "version": "0.0.0",
+  "description": "SMS module for NestJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Farid Karami",
+  "license": "MIT"
+}
